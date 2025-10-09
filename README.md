@@ -8,7 +8,9 @@
 </div>
 
 ---
-## 🚀 Tech Stack
+<div style="text-align: center;">
+  Tech Stack
+</div>
 
 <div align="center" style="background: linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%);margin:0 30px 0 0;padding: 30px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.1);">
 <p align="center" style="margin-top: 20px;">
@@ -42,13 +44,13 @@
 </div>
 ---
 
-## 📸 Preview
+## Preview
 
 Null
 
 ---
 
-## 💡 Features
+##  Features
 
 ✅ Interactive textbox customization (color, font, size, border, etc.)  
 ✅ Real-time preview of textbox styles  

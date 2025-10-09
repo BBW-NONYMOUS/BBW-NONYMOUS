@@ -1,14 +1,16 @@
-###-- SUDOCrYpt --###
+<div>
+  <label>###-- <h1 style="font-size: 30px; font-family: mono; color:Yellow;">SUDOCrYpt</h1> --###</label>
+<hr style="border: solid 1 black">
 
-It's Me Sudo your Assistant Dev to your project, i thankful for the Glory of God to give this Knowledge and Strength for Outstanding Young Challenger, It's me again Sudo your assistant Dev
+  <p>
+    It's Me Sudo your Assistant Dev to your project, i thankful for the Glory of God to give this Knowledge and Strength for Outstanding Young Challenger, It's me again Sudo your assistant Dev
+  </p>
+</div>
+
 ---
-
 ## 🚀 Tech Stack
 
-<div align="center" style="background: linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%);margin:0 30 0 0;padding: 30px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.1);">
-
-<h3>🌈 Languages, Frameworks, and Tools</h3>
-
+<div align="center" style="background: linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%);margin:0 30px 0 0;padding: 30px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.1);">
 <p align="center" style="margin-top: 20px;">
 
   <!-- Frontend -->
@@ -32,10 +34,6 @@ It's Me Sudo your Assistant Dev to your project, i thankful for the Glory of God
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   
 </p>
-
-<div align="center" style="margin-top: 25px;">
-  <img src="https://img.shields.io/badge/🟢_Full_Stack_Developer_Environment-00C853?style=for-the-badge&logo=dev.to&logoColor=white" alt="Full Stack Environment" />
-</div>
 
 </div>
 

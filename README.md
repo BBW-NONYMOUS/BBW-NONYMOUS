@@ -1,5 +1,5 @@
 <div>
-  <label>###-- <h1 style="font-size: 30px; font-family: mono; color:Yellow;">SUDOCrYpt</h1> --###</label>
+   <h1 style="font-size: 30px; font-family: mono; color:Yellow;">SUDOCrYpt</h1>
 <hr style="border: solid 1 black">
 
   <p>
@@ -7,10 +7,8 @@
   </p>
 </div>
 
----
 <div style="text-align: center;">
-  Tech Stack
-</div>
+  <h2 style="font-size: 15px; color: yellow; text-align: left;">Tech Stack</h2></div>
 
 <div align="center" style="background: linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%);margin:0 30px 0 0;padding: 30px; border-radius: 20px; box-shadow: 0 0 25px rgba(0,0,0,0.1);">
 <p align="center" style="margin-top: 20px;">
@@ -43,6 +41,47 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
 </div>
 ---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,php,java,nodejs,mongodb,mysql,cpp,ubuntu&perline=6" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+  </a>
+</p>
+
+---
+
+### 🎨 **Language Usage Rate**
+| Language | Usage Rate | Color |
+|-----------|-------------|--------|
+| 🐍 Python | 28% | 🟩 |
+| 💻 JavaScript | 22% | 🟨 |
+| ⚛️ React / Node.js | 15% | 🟦 |
+| 🧱 HTML / CSS | 12% | 🟧 |
+| 🐘 PHP | 8% | 🟪 |
+| ☕ Java | 7% | 🟥 |
+| 🗄️ MySQL / MongoDB | 5% | 🟩 |
+| 🐧 Ubuntu / C++ | 3% | ⚫ |
+
+---
+
+### 🌀 **Animated Gradient Background**
+
+```html
+<div align="center" style="background: linear-gradient(270deg, #00f, #0ff, #f0f, #ff0); background-size: 800% 800%; animation: gradientShift 8s ease infinite; padding: 20px; border-radius: 12px; color: white;">
+  <h2>🔥 Tech Stack & Languages I Use the Most 🔥</h2>
+</div>
+
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 ## Preview
 

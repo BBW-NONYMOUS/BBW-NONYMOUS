@@ -42,30 +42,64 @@
 </div>
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,php,java,nodejs,mongodb,mysql,cpp,ubuntu&perline=6" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-  </a>
-</p>
 
----
+<h2 align="center">💻 Most Used Languages Rate</h2>
 
-### 🎨 **Language Usage Rate**
-| Language | Usage Rate | Color |
-|-----------|-------------|--------|
-| 🐍 Python | 28% | 🟩 |
-| 💻 JavaScript | 22% | 🟨 |
-| ⚛️ React / Node.js | 15% | 🟦 |
-| 🧱 HTML / CSS | 12% | 🟧 |
-| 🐘 PHP | 8% | 🟪 |
-| ☕ Java | 7% | 🟥 |
-| 🗄️ MySQL / MongoDB | 5% | 🟩 |
-| 🐧 Ubuntu / C++ | 3% | ⚫ |
+<div align="center">
+  <style>
+    .lang-container {
+      width: 80%;
+      max-width: 500px;
+      margin: 10px auto;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
 
+    .lang {
+      margin: 10px 0;
+    }
+
+    .bar {
+      height: 20px;
+      border-radius: 10px;
+      background: #222;
+      overflow: hidden;
+      box-shadow: 0 0 5px #000;
+    }
+
+    .fill {
+      height: 100%;
+      border-radius: 10px;
+      width: 0;
+      animation: fillBar 2.5s ease-out forwards;
+    }
+
+    @keyframes fillBar {
+      from { width: 0; }
+    }
+
+    .python   { background: linear-gradient(90deg, #3776AB, #4B8BBE); animation-delay: 0s; width: 28%; }
+    .js       { background: linear-gradient(90deg, #F7E018, #FFEA61); animation-delay: 0.2s; width: 22%; }
+    .react    { background: linear-gradient(90deg, #61DAFB, #00BFFF); animation-delay: 0.4s; width: 15%; }
+    .html     { background: linear-gradient(90deg, #E44D26, #F16529); animation-delay: 0.6s; width: 12%; }
+    .php      { background: linear-gradient(90deg, #777BB3, #8892BF); animation-delay: 0.8s; width: 8%; }
+    .java     { background: linear-gradient(90deg, #f89820, #e76f00); animation-delay: 1s; width: 7%; }
+    .mysql    { background: linear-gradient(90deg, #00758F, #F29111); animation-delay: 1.2s; width: 5%; }
+    .ubuntu   { background: linear-gradient(90deg, #DD4814, #77216F); animation-delay: 1.4s; width: 3%; }
+  </style>
+
+  <div class="lang-container">
+    <div class="lang">🐍 Python <div class="bar"><div class="fill python"></div></div></div>
+    <div class="lang">💛 JavaScript <div class="bar"><div class="fill js"></div></div></div>
+    <div class="lang">⚛️ React / Node.js <div class="bar"><div class="fill react"></div></div></div>
+    <div class="lang">🧱 HTML / CSS <div class="bar"><div class="fill html"></div></div></div>
+    <div class="lang">🐘 PHP <div class="bar"><div class="fill php"></div></div></div>
+    <div class="lang">☕ Java <div class="bar"><div class="fill java"></div></div></div>
+    <div class="lang">🗄️ MySQL / MongoDB <div class="bar"><div class="fill mysql"></div></div></div>
+    <div class="lang">🐧 Ubuntu / C++ <div class="bar"><div class="fill ubuntu"></div></div></div>
+  </div>
+</div>
 ---
 
 ### 🌀 **Animated Gradient Background**

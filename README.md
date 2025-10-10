@@ -45,71 +45,7 @@
 
 <h2 align="center"> Tech Stack Rate</h2>
 
-<div align="center">
-  <style>
-    .tech-container {
-      width: 80%;
-      max-width: 550px;
-      margin: 20px auto;
-      font-family: "Segoe UI", sans-serif;
-      color: #fff;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      padding: 20px;
-      border-radius: 20px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.4);
-      animation: fadeIn 2s ease-in;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .tech {
-      margin: 12px 0;
-      text-align: left;
-    }
-    .bar {
-      height: 18px;
-      border-radius: 10px;
-      background: rgba(255,255,255,0.15);
-      overflow: hidden;
-      box-shadow: inset 0 0 5px rgba(0,0,0,0.5);
-    }
-    .fill {
-      height: 100%;
-      border-radius: 10px;
-      width: 0;
-      animation: fillBar 2.5s ease-out forwards;
-    }
-    @keyframes fillBar {
-      from { width: 0; }
-    }
-    .python   { background: linear-gradient(90deg, #3776AB, #4B8BBE); width: 90%; }
-    .js       { background: linear-gradient(90deg, #F7E018, #FFEA61); width: 85%; }
-    .react    { background: linear-gradient(90deg, #61DAFB, #00BFFF); width: 80%; }
-    .nodejs   { background: linear-gradient(90deg, #3C873A, #00FF7F); width: 78%; }
-    .htmlcss  { background: linear-gradient(90deg, #E44D26, #1572B6); width: 75%; }
-    .php      { background: linear-gradient(90deg, #777BB3, #8892BF); width: 70%; }
-    .mysql    { background: linear-gradient(90deg, #00758F, #F29111); width: 68%; }
-    .mongodb  { background: linear-gradient(90deg, #4DB33D, #00ED64); width: 65%; }
-    .ubuntu   { background: linear-gradient(90deg, #DD4814, #77216F); width: 60%; }
-    .tailwind   { background: linear-gradient(90deg, #DD4814, #78236F); width: 58%; }
-  </style>
-
-  <div class="tech-container">
-    <div class="tech"> Python <div class="bar"><div class="fill python"></div></div></div>
-    <div class="tech"> JavaScript <div class="bar"><div class="fill js"></div></div></div>
-    <div class="tech"> React <div class="bar"><div class="fill react"></div></div></div>
-    <div class="tech"> Node.js <div class="bar"><div class="fill nodejs"></div></div></div>
-    <div class="tech"> HTML / CSS <div class="bar"><div class="fill htmlcss"></div></div></div>
-    <div class="tech"> PHP <div class="bar"><div class="fill php"></div></div></div>
-    <div class="tech"> MySQL <div class="bar"><div class="fill mysql"></div></div></div>
-    <div class="tech"> MongoDB <div class="bar"><div class="fill mongodb"></div></div></div>
-    <div class="tech"> Ubuntu <div class="bar"><div class="fill ubuntu"></div></div></div>
-    <div class="tech"> Tailwind <div class="bar"><div class="fill tailwind"></div></div></div>
-  </div>
-</div>
-
-## Preview
+<h2 style="text-align:center;">Certificate</h2>
 
 Null
 

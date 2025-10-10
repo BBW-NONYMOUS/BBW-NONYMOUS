@@ -2,9 +2,12 @@
    <h1 style="font-size: 30px; font-family: mono; color:yellow; text-align: center;">SUDOCRYPT</h1>
 <hr style="border: solid 1 black">
 
-  <p>
-    It's Me Sudo your Assistant Dev to your project, i thankful for the Glory of God to give this Knowledge and Strength for Outstanding Young Challenger, It's me again Sudo your assistant Dev
-  </p>
+   <div style="border: 1px solid; padding: 10px; background-color: #222" >
+     <h3 >About Me</h3>
+      <p>
+       It's Me Sudo your Assistant Dev to your project, i thankful for the Glory of God to give this Knowledge and Strength for Outstanding Young Challenger, It's me again Sudo your assistant Dev
+     </p>
+   </div>   
 </div>
 
 <div style="text-align: center;">

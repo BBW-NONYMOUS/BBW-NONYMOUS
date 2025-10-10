@@ -1,5 +1,5 @@
 <div>
-   <h1 style="font-size: 30px; font-family: mono; color:Yellow;">SUDOCrYpt</h1>
+   <h1 style="font-size: 30px; font-family: mono; color:yellow; text-align: center;">SUDOCRYPT</h1>
 <hr style="border: solid 1 black">
 
   <p>

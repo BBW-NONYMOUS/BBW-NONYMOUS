@@ -1,6 +1,6 @@
 <h1 align="center">⚡ SUDOCRYPT ⚡</h1>
 <p align="center">
-  <i>Assistant Developer • Full Stack Enthusiast • Problem Solver</i>
+  <i> Developer • Full Stack Enthusiast • Problem Solver</i>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sudo**, your Assistant Developer 🚀  
+Hello! I'm **Sudo**, 😎🐱‍🚀 
 
 I’m passionate about building modern, scalable, and clean web applications.  
 Grateful for the knowledge and strength to continuously grow as an outstanding young challenger in the tech world.
@@ -22,7 +22,8 @@ I focus on:
 - Clean & maintainable code  
 - Responsive UI/UX  
 - Scalable backend systems  
-- Continuous learning & improvement  
+- Continuous learning & improvement
+- Numpy, Pandas, Seaborn, Sklearn, Model training  
 
 ---
 
@@ -102,13 +103,14 @@ A dynamic web app that allows users to design and customize textboxes in real-ti
 
 > Coming Soon 🚀
 
----
+---<span style="text-color:"back"; text-size:18px;  ">Check my PortFolio For viewing my Certificate</span>---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Portfolio: (Add your link here)
-- Email: (Optional)
+- GitHub: https://github.com/BBW-Anonymous
+- FaceBook: https://www.facebook.com/profile.php?id=61582357361273
+- Portfolio: https://sudojoshua.vercel.app/
+- Email: joshuabelonghilot@sksu.edu.ph
 
 ---
 
